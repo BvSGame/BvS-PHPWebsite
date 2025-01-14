@@ -1,0 +1,12 @@
+[submodule ".modules/php_config"]
+	path = .modules/php_config
+	url = https://github.com/liledix4/php_config
+[submodule ".modules/php_database"]
+	path = .modules/php_database
+	url = https://github.com/liledix4/php_database
+[submodule ".modules/php_github"]
+	path = .modules/php_github
+	url = https://github.com/liledix4/php_github
+[submodule ".modules/php_secure"]
+	path = .modules/php_secure
+	url = https://github.com/liledix4/php_secure

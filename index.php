@@ -1,0 +1,1 @@
+<?php header(header: 'Location: https://bvsgame.github.io');

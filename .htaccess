@@ -1,0 +1,9 @@
+Header add Access-Control-Allow-Origin "*"
+Header add Access-Control-Allow-Methods: "GET,POST"
+
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+
+    # No access to the files and folders starting with "."
+    RedirectMatch 404 /\..*$
+</IfModule>
